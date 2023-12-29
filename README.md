@@ -5,8 +5,12 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ## Source
 
 Nuxt에서 자주 사용되는 open source
+
 [VueUse](https://vueuse.org/functions.html)
+
 [VueIcons](https://icones.js.org/)
+
+[vueDir](https://nuxt.com/docs/guide/directory-structure/nuxt)
 
 ## Setup
 

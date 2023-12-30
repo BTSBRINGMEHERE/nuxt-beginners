@@ -1,7 +1,15 @@
-<script setup></script>
+<script setup>
+// definePageMeta({
+//   middleware: "auth",
+// });
+
+const response = await $fetch("api/hello");
+</script>
 
 <template>
-  <div class="Main">Hello Nuxt 3</div>
+  <div class="Main">
+    <h1>Hello Nuxt 3</h1>
+  </div>
 </template>
 
 <style lang="scss" scoped></style>

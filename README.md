@@ -12,6 +12,8 @@ Nuxt에서 자주 사용되는 open source
 
 [vueDir](https://nuxt.com/docs/guide/directory-structure/nuxt)
 
+[VueModules](https://nuxt.com/modules)
+
 ## Setup
 
 Make sure to install the dependencies:
